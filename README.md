@@ -4,4 +4,4 @@ Things I think are interesting:
  - Functional programming
  - NLP
  - Digital ethics
- - Machine learning
+ - Deep learning
