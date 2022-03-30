@@ -2,5 +2,5 @@ My name is Audrey - currently a Master's of IT student at the University of Melb
 
 Things I think are interesting:
  - NLP
- - Human-robot interaction
- - Ethics in tech
+ - Explainable AI
+ - AI Planning/autonomous agents
